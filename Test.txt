@@ -1,3 +1,5 @@
 This is a test file to verify github test repo setup
 
 Testing VS Code setup from desktop
+
+foo test
