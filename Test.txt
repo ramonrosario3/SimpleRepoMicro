@@ -1,4 +1,6 @@
 This is a test file to verify github test repo setup
 
-Testing VS Code setup from desktop
+Testing VS Code setup from desktop 
+
+Testing VS Code setup from laprop
 
